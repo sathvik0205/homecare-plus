@@ -1,0 +1,13 @@
+{
+  "name": "homecare-plus",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Subscription-based home maintenance MVP",
+  "dependencies": {
+    "@vercel/blob": "^2.3.0"
+  },
+  "scripts": {
+    "test:smoke": "node scripts/smoke-test.mjs"
+  }
+}
